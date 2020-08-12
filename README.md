@@ -1,5 +1,3 @@
-# coco
-
 > My exceptional Nuxt.js project
 
 ## Build Setup
